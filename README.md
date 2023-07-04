@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DwiCandraPratiwi
 - 👀 I'm interested in programming and digital marketing 
-- 🌱 I’m currently learning about Fullstack Web Development
+- 🌱 I’m currently learning about Frontend 
 
 
 <!---
